@@ -2,6 +2,9 @@
 
 A demo app exploring how animation and color can create emotional resonance through simple, focused interactions.
 
+| <img src="assets/screenshot-main.png" width="90%"> | <img src="assets/screenshot-detail.png" width="90%"> | <img src="assets/demo-video.mp4" width="90%"> |
+|:---:|:---:|:---:|
+
 ## What This Is
 
 Pulse is a prototype that demonstrates how subtle visual rhythms can help people connect with and regulate their emotional states. The core idea is straightforward: select an emotion, watch it breathe, and let the animation guide your own breathing.
